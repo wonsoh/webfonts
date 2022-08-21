@@ -6,7 +6,7 @@
       format("woff")
       url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFL.otf")
       format("opentype");
-  font-weight: lighter;
+  font-weight: 300;
   font-style: normal;
 }
 
@@ -18,7 +18,7 @@
       format("woff")
       url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFR.otf")
       format("opentype");
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -30,7 +30,7 @@
       format("woff"),
     url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFB.woff")
       format("opentype");
-  font-weight: bold;
+  font-weight: 700;
   font-style: normal;
 }
 
@@ -42,6 +42,6 @@
       format("woff"),
     url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFEB.otf")
       format("opentype");
-  font-weight: bolder;
+  font-weight: 800;
   font-style: normal;
 }
