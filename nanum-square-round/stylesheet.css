@@ -3,7 +3,7 @@
   src: url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFL.woff2")
       format("woff2"),
     url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFL.woff")
-      format("woff")
+      format("woff"),
       url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFL.otf")
       format("opentype");
   font-weight: 300;
@@ -15,7 +15,7 @@
   src: url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFR.woff2")
       format("woff2"),
     url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFR.woff")
-      format("woff")
+      format("woff"),
       url("https://cdn.jsdelivr.net/gh/wonsoh/webfonts/nanum-square-round/NanumSquareRoundOTFR.otf")
       format("opentype");
   font-weight: 400;
